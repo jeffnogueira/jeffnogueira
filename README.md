@@ -1,16 +1,18 @@
+
+
+# Jefferson Nogueira 👓
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-nogueira-0aa681174/)](https://www.linkedin.com/in/jefferson-nogueira-0aa681174/)
+[![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=jefferson.nogueira.0180@gmail.com)](mailto:jefferson.nogueira.0180@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=jeffnogueira&color=919191" alt="jeffnogueira" />
+
+
 ### Hi there 👋
 
-<!--
-**jeffnogueira/jeffnogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jefferson and I have 4 years of experience in Technology, today I'm a full stack developer at Oficina 5 Soluções. <br />
+Even managing to develop very well in the backend, I have a greater focus on the frontend, in the creation of web applications and mobiles.<br />
+I have always been passionate about technology and innovation, with a slightly more general profile I had contact with the following tools:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Programming: HTML5, CSS3, PHP, CakePHP, Wordpress, JS/TS, ReactJS, Angular2+, NodeJS, Express, KnexJS, Sequelize, TypeORM, React Native, IONIC, C# (academic), Java (academic). <br />
+☁️ Cloud Computing: AWS (RDS, S3), Heroku. <br />
+🖥️ Devops: Git. <br />
+📉 Database: Oracle, SQL Server, PostgreSQL, MySQL. <br />
