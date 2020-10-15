@@ -16,3 +16,5 @@ I have always been passionate about technology and innovation, with a slightly m
 ☁️ Cloud Computing: AWS (RDS, S3), Heroku. <br />
 🖥️ Devops: Git. <br />
 📉 Database: Oracle, SQL Server, PostgreSQL, MySQL. <br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffnogueira&langs_count=5&layout=compact)
