@@ -18,9 +18,3 @@ I have always been passionate about technology and innovation, with a slightly m
 📉 Database: Oracle, SQL Server, PostgreSQL, MySQL. <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffnogueira&langs_count=5&layout=compact)
-
-/*![](https://github-readme-stats.vercel.app/api/pin/?username=jeffnogueira&repo=dulci-modas-painel)
-
-![](https://github-readme-stats.vercel.app/api?username=jeffnogueira&count_private=true&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)*/
