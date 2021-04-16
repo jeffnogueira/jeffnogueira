@@ -3,7 +3,7 @@
 # Jefferson Nogueira 👓
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jeff-nogueira/)](https://www.linkedin.com/in/jeff-nogueira/)
 [![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=jefferson.nogueira.0180@gmail.com)](mailto:jefferson.nogueira.0180@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=jeffnogueira&color=919191" alt="jeffnogueira" />
+// <img src="https://komarev.com/ghpvc/?username=jeffnogueira&color=919191" alt="jeffnogueira" />
 
 
 ### Hi there 👋
