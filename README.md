@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-I'm Jefferson and I have 4 years of experience in Technology, today I'm a frontend developer at [everis](https://www.everis.com/brazil/pt-br/home-br) and graduate in information systems at [UNIPAM](https://unipam.edu.br/). <br />
+I'm Jefferson and I have 4 years of experience in Technology, today I'm a frontend developer at [zup](https://www.zup.com.br/) and graduate in information systems at [UNIPAM](https://unipam.edu.br/). <br />
 Even managing to develop very well in the backend, I have a greater focus on the frontend, in the creation of web applications and mobiles.<br />
 I have always been passionate about technology and innovation, with a slightly more general profile I had contact with the following tools:
 
