@@ -13,7 +13,7 @@ Even managing to develop very well in the backend, I have a greater focus on the
 I have always been passionate about technology and innovation, with a slightly more general profile I had contact with the following tools:
 
 ⚡ Programming: HTML5, CSS3, PHP, CakePHP, Wordpress, JS/TS, ReactJS, Angular2+, NodeJS, Express, KnexJS, Sequelize, TypeORM, React Native, IONIC, C#, Java, Spring Boot. <br />
-☁️ Cloud Computing: AWS (RDS, S3), Google Cloud, Heroku. <br />
+☁️ Cloud Computing: AWS (RDS, S3), Google Cloud, Heroku, Jenkins, Sonar. <br />
 🖥️ Devops: Git. <br />
 📉 Database: Oracle, SQL Server, PostgreSQL, MySQL, Firebase, DataStore, MongoDB. <br />
 
